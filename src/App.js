@@ -322,7 +322,7 @@ function App() {
               <Typography
                 sx={{ fontSize: "2.5rem", fontWeight: 700, color: "#000" }}
               >
-                Outdoor Air condition
+                Outdoor Air Quality
               </Typography>
             </Box>
           </Grid>
